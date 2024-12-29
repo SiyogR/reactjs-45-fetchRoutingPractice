@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.blog-list-container {
+    margin-top:48px;
+    display:flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+}
